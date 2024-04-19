@@ -33,7 +33,7 @@ document.querySelector('#main').addEventListener('mousemove',function(dets){
     document.querySelector('circle').style.left = `${dets.clientX}px`
     document.querySelector('circle').style.top = `${dets.clientY}px`
 })
-
+dfkjbsdkfjbsd
 gsap.fromTo('child',{
 scrollTrigger:{
     trigger:'parent',
@@ -43,4 +43,4 @@ scrollTrigger:{
     end:'top 0%',
 },
 })
-// git add
+hello
